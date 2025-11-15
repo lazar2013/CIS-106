@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PS11P2(Wikipedia Activity)", "PS11P2(Wikipedia Activity).pyproj", "{22F9ABDE-1E58-49A8-BA9C-4C3714B8A583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F9ABDE-1E58-49A8-BA9C-4C3714B8A583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F9ABDE-1E58-49A8-BA9C-4C3714B8A583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E17E2923-CDB2-4275-9D07-5093EB056D1A}
+	EndGlobalSection
+EndGlobal
